@@ -1,0 +1,11 @@
+{
+    "_id": "SA1",
+    "name": "Oleang",
+    "type": "Dog",
+    "gender": "Female",
+    "color": "White",
+    "desc": "A friendly and playful dog looking for a loving home.",
+    "owner_id": "MNW1",
+    "createdOn": "2023-10-06T12:00:00Z",
+    "updatedOn": "2023-10-06T12:00:00Z"
+  }
